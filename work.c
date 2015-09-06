@@ -12,11 +12,5 @@ lude <stdio.h>
 		     subtract = first - second;
 		        multiply = first * second;
 			   divide = first / (float)second;   //typecasting
-			    
-			       printf("Sum = %d\n",add);
+			   ("jeewejhejdhbckh nsddj bc vhSum = %d\n",add);
 			          printf("Difference = %d\n",subtract);
-				     printf("Multiplication = %d\n",multiply);
-				        printf("Division = %.2f\n",divide);
-					 
-					    return 0;
-					    }
