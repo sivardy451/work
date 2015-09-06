@@ -14,3 +14,4 @@ lude <stdio.h>
 			   divide = first / (float)second;   //typecasting
 			   ("jeewejhejdhbckh nsddj bc vhSum = %d\n",add);
 			          printf("Difference = %d\n",subtract);
+				  added new line to progacf
