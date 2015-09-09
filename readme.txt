@@ -1,2 +1,5 @@
-it is redeme file
+ithhtht is redeme file
+<<<<<<< HEAD
 
+=======
+>>>>>>> roy
